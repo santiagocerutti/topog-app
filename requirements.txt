@@ -1,0 +1,13 @@
+panel
+jupyter
+transformers
+numpy
+torch
+aiohttp
+pandas
+numpy
+hvplot
+SciPy
+pyparsing
+geopandas
+plotly
